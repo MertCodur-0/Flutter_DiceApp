@@ -1,6 +1,6 @@
 # first_app
 
-<img width="372" height="766" alt="image" src="https://github.com/user-attachments/assets/2a12d487-7d34-465e-90f0-2349d2f96b5a" />
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/84c62146-0224-4343-8ace-fb8ba8b30fea" />
 
 A new Flutter project.
 
